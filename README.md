@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drewlearnsabout
 - 👀 I’m interested in visual design.
-- 🌱 I’m currently learning adobe creative suite.
+- 🌱 I’m currently learning adobe creative suite and Sveltekit.
 - 💞️ I’m looking to collaborate on visual design projects.
 - 📫 How to reach me @ andrew.carbungco@gmail.com
 
